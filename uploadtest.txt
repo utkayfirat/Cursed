@@ -1,0 +1,2 @@
+You can use this file to test the upload function.
+You need to be in the same place as the file you are going to upload.

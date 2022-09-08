@@ -29,12 +29,11 @@
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/8.png"><br>
 ## >> After the file is opened:
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/9.png"><br>
-## >> After the file is opened:
- <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/10.png"><br>
 ## >> Type help and you will see the commands.
- <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/11.png"><br>
+ <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/10.png"><br>
 ## >> A few examples:
+ <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/11.png">
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/12.png">
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/13.png">
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/14.png">
- <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/15.png"><br>
+ <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/15.png">

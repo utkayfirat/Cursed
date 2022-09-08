@@ -15,7 +15,8 @@
 ## >> pyinstaller --onefile xbox.py --icon index.ico --noconsole
    <b>Why use --noconsole?</b><br>
    Because we don't want to make the person suspicious.<br>
- <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/4.png">
+ <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/4.png"><br>
+## >> After pyinstaller, we have our application in the file named dist.
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/5.png">
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/6.png">
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/7.png">

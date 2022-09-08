@@ -35,4 +35,4 @@
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/13.png">
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/14.png">
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/15.png"><br>
- # EDUCATIONAL PURPOSES ONLY
+# EDUCATIONAL PURPOSES ONLY

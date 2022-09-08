@@ -1,2 +1,2 @@
-# Cursed
- Backdoor that connects via socket. It has many functions.
+## Cursed
+ <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/0.png">

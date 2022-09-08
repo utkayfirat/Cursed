@@ -5,6 +5,8 @@
 ✨ Edit ip.<br>
 ✨ .exe generator.<br>
 ✨ Multi connection.<br>
+## >> How can i download in kali linux.
+ <code>git clone https://github.com/utkayfirat/Cursed.git</code>
 ## >> What can it do?
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/0.png"><br>
 ## >> Remember to use Requirements.txt file.

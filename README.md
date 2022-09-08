@@ -13,7 +13,7 @@
 ## >> Now you need an ico file and xbox.py, We will use pyinstaller on Windows 10.
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/3.png"><br>
 ## >> pyinstaller --onefile xbox.py --icon index.ico --noconsole
-   <bold>Why use --noconsole?</bold><br>
+   <b>Why use --noconsole?</b><br>
    Because we don't want to make the person suspicious.<br>
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/4.png">
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/5.png">

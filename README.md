@@ -1,5 +1,6 @@
-# Things that can be added for Cursed:
-Browser's Cookie, Accounts, History Stealer.
+## ⭐ Things that can be added for Cursed ⭐
+✨ Browser's cookie, accounts, history stealer.
+✨ Webcam hack.
 ## What can it do?
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/0.png">
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/1.png">

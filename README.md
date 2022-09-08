@@ -31,6 +31,7 @@
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/9.png"><br>
 ## >> Type help and you will see the commands.
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/10.png"><br>
+## NOTE: For the upload function, please read the uploadtest.txt.<br>
 ## >> A few examples:
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/11.png">
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/12.png">

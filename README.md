@@ -6,9 +6,9 @@
 ## >> Remember to use Requirements.txt file.
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/1.png"><br>
 ## >> Change:
- <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/2.png">
+ <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/2.png"><br>
 ## >> Now you need an ico file and xbox.py, We will use pyinstaller on Windows 10.
- <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/3.png">
+ <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/3.png"><br>
 ## >> pyinstaller --onefile [file] --icon [icon.ico] --noconsole
    Why use --noconsole?
    Because we don't want to make the person suspicious.

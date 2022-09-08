@@ -7,7 +7,11 @@
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/1.png"><br>
 ## >> Change:
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/2.png">
+## >> Now you need an ico file and xbox.py, We will use pyinstaller on Windows 10.
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/3.png">
+## >> pyinstaller --onefile [file] --icon [icon.ico] --noconsole
+   Why use --noconsole?
+   Because we don't want to make the person suspicious.
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/4.png">
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/5.png">
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/6.png">

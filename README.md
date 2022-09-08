@@ -1,10 +1,13 @@
 ## >> Things that can be added for Cursed
 ✨ Browser's cookie, accounts, history stealer.<br>
 ✨ Webcam hack.<br>
-## What can it do?
+## >> What can it do?
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/0.png">
+## >> Remember to use Requirements.txt file.
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/1.png">
+## >> Remember to use Requirements.txt file.
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/2.png">
+## >> Where you need to change:
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/3.png">
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/4.png">
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/5.png">

